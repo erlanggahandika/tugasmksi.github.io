@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;1,500&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.padding-top {
+    padding-top: 40px;
+}
+
+.pt-form {
+    padding-top: 40px;
+
+}
+
+.rowlgi {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navmy {
+    padding-right: 140px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.t1 {
+    padding-right: 40px;
+    list-style-type: none;
+    padding-top: 13px;
+
+}
+
+.border-t2 {
+    width: 120px;
+    height: 38px;
+    border: 2px solid yellow;
+}
+
+.border-t2:hover {
+    width: 120px;
+    height: 38px;
+    border: 2px solid rgb(12, 233, 159);
+}
+
+.t2 {
+    padding-left: 100px;
+    padding-top: 6px;
+}
+
+.t2 a {
+    color: #fff;
+}
+
+.judul {
+    padding-left: 120px;
+    padding-top: 12px;
+    color: #fff;
+}
+
+.judul h1 a {
+    color: #fff;
+}
+
+.tmpt-page {
+    width: 100%;
+    height: 120px;
+    background-color: #f0ebeb;
+}
+
+.judul-new p {
+    padding-left: 105px;
+}
+
+.atur-pge {
+    display: flex;
+    flex-direction: row;
+}
+
+.logicerlngga {
+    color: #000;
+    font-size: 18px;
+}
+
+.titlenya {
+    padding-top: 35px;
+}
+
+.titlenya a {
+    padding-left: 680px;
+    color: #4070f4;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.atur-pge h2 {
+    padding-top: 20px;
+    font-size: 32px;
+    color: rgb(75, 70, 70);
+    font-weight: 500;
+    padding-left: 100px;
+}
+
+.atur-t2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4px;
+}
+
+.atasny {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(22, 21, 21);
+    opacity: 60%;
+}
+
+.border-ct {
+    width: 90%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.atas-ct {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.t1 a {
+    color: #fff;
+    padding-right: 30px;
+}
+
+.t1 a:hover {
+    color: #fffb00;
+    padding-right: 30px;
+    transition: all 0.5s ease-in-out;
+}
+
+.ptjudul {
+    padding-top: 35px;
+}
+
+.form-kmn {
+    padding-top: 20px;
+    padding-left: 70px;
+}
+
+.inputnnn input {
+    width: 380px;
+    height: 36px;
+    background: none;
+    outline: none;
+    border: none;
+    border: 1px solid orange;
+    border-radius: 8px;
+}
+
+.inputnnn textarea {
+    width: 420px;
+    height: 120px;
+    background: none;
+    outline: none;
+    border: none;
+    border: 1px solid orange;
+    border-radius: 8px;
+}
+
+.inputny input {
+    width: 230px;
+    height: 36px;
+    background: none;
+    background-color: orange;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+
+.inputny input:hover {
+    width: 230px;
+    height: 36px;
+    background: none;
+    border: 1px solid orange;
+    outline: none;
+
+    color: rgb(49, 47, 47);
+    border-radius: 8px;
+}
+
+.ptpp {
+    padding-top: 15px;
+    padding-left: 90px;
+}
+
+.text-appleria {
+    padding-left: 70px;
+    padding-top: 20px;
+}

@@ -1,0 +1,43 @@
+.pt-icon {
+    padding-top: 46px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputcri input {
+    width: 300px;
+    height: 36px;
+    background: none;
+    border: none;
+    outline: none;
+    background-color: #fff;
+    border-radius: 7px;
+}
+
+.cari-berita {
+    padding-left: 10px;
+
+}
+
+.cari-berita input {
+    width: 140px;
+    height: 36px;
+    color: #fff;
+    background: none;
+    border: none;
+    outline: none;
+    background-color: orange;
+    cursor: pointer;
+}
+
+.cari-berita input:hover {
+    width: 140px;
+    height: 36px;
+    color: #fff;
+    background: none;
+    border: none;
+    outline: 1px solid orange;
+    cursor: pointer;
+}

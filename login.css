@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;1,500&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    user-select: none;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    background-color: #fff;
+}
+
+.template-ct {
+    width: 820px;
+    height: 520px;
+    background-color: #fff;
+    border-top: 1px solid #ebe5e5;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px -1px rgb(185, 181, 181);
+}
+
+.atur-ct {
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-tmpt {
+    display: flex;
+    flex-direction: row;
+}
+
+.bg-rk {
+    background: url(bg1.jpg);
+    width: 450px;
+    height: 420px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: cover;
+}
+
+.pt-bg {
+    padding-top: 18px;
+}
+
+.tulisan_login {
+    padding-top: 45px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #178ef0;
+    padding-left: 40px;
+}
+
+.judul-txt {
+    color: rgb(22, 223, 82);
+}
+
+.form-inpt {
+    padding-top: 40px;
+}
+
+.row-inp {
+    display: flex;
+    flex-direction: row;
+    padding-top: 8px;
+}
+
+.icon {
+    color: rgb(15, 87, 194);
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+.inputny {
+    padding-left: 6px;
+}
+
+.inputny input {
+    width: 290px;
+    height: 40px;
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 1px solid #8a8585;
+}
+
+.inputny input:hover {
+    width: 290px;
+    height: 40px;
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 1px solid rgb(15, 87, 194);
+
+}
+
+.submit-erlngga {
+    padding-left: 35px;
+}
+
+.submit-erlngga input {
+    width: 250px;
+    height: 40px;
+    background-color: #4070f4;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.submit-erlngga input:hover {
+    width: 250px;
+    height: 40px;
+    background: none;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    color: #3b3939;
+    border: 1px solid #4070f4;
+    cursor: pointer;
+}
+
+.txt-sz {
+    padding-top: 45px;
+    font-size: 13px;
+    padding-left: 50px;
+}
+
+.byy {
+    color: red;
+}
+
+/* ini bagian alert */
+.alert {
+    background-color: rgb(62, 151, 211);
+    width: 290px;
+    height: 42px;
+    border-radius: 5px;
+}
+
+.aturnya {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 9px;
+    color: #fff;
+}
+
+.pt-alert {
+    padding-top: 12px;
+    padding-left: 11px;
+}
+
+/* ennd */
